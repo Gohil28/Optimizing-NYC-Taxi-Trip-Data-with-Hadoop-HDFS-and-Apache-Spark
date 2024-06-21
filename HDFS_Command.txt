@@ -1,0 +1,4 @@
+Put Data File on Hadoop HDFS :
+
+C:\Windows\system32>hadoop fs -put C:\Users\Excel\Documents\HDFS_SPARK_Project\yellow_tripdata_2024-01.parquet /project_data
+
