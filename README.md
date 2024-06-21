@@ -1,5 +1,8 @@
 # Optimizing NYC Taxi Trip Data with Hadoop HDFS and Apache Spark
 
+![one drawio](https://github.com/Gohil28/Optimizing-NYC-Taxi-Trip-Data-with-Hadoop-HDFS-and-Apache-Spark/assets/97522181/c6b93d8d-7d65-4340-8a33-bdc1e059bcfb)
+
+
 
 This project delves into NYC taxi trip data, wielding the power of Apache Spark, a distributed processing framework, and its Python interface, PySpark. It guides you through a data analysis journey, uncovering insights through a series of steps:
 
@@ -21,5 +24,7 @@ This project delves into NYC taxi trip data, wielding the power of Apache Spark,
 
 This project equips you with a comprehensive analysis of NYC taxi trip data, paving the way for further exploration and data-driven decision making.
 
+
 Data Link : https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet
+
  
