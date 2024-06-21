@@ -20,7 +20,7 @@ This project delves into NYC taxi trip data, wielding the power of Apache Spark,
    - Average trip duration for each weekday.
    - Frequency of trips across morning, afternoon, evening, and night.
 
-5. **Data Partitioning (Optional):** PySpark allows you to partition the data by trip duration categories ("short," "mid," or "long"). This enhances storage efficiency and facilitates faster retrieval of specific data subsets.
+5. **Data Partitioning :** PySpark allows you to partition the data by trip duration categories ("short," "mid," or "long"). This enhances storage efficiency and facilitates faster retrieval of specific data subsets.
 
 This project equips you with a comprehensive analysis of NYC taxi trip data, paving the way for further exploration and data-driven decision making.
 
